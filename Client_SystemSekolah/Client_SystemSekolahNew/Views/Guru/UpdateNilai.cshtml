@@ -1,0 +1,60 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "_LayoutGuru";
+    ViewData["Title"] = "Admin Page";
+}
+
+
+<div class="row">
+    <div class="col-12">
+        <div class="card card-primary card-outline">
+            <div class="card-header">
+                
+            </div>
+            <div class="card-body">
+                
+                <h4>Nilai Siswa</h4>
+                <table class="table table-striped" id="UpdateNilaiTable">
+                    <thead>
+                        <tr>
+
+                            <th>Nama</th>
+                            <th>Kelas</th>
+                            <th>Mata Pelajaran</th>
+                            <th>Nilai Harian</th>
+                            <th>Nilai UTS</th>
+                            <th>Nilai UAS</th>
+                            <th>Nilai Rata-Rata</th>
+                            <th>Action</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <!-- /.card -->
+    </div>
+</div>
+
+<!--Modal Edit-->
+     <div class="modal fade" id="editNilai" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Edit</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div id="editData">
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>

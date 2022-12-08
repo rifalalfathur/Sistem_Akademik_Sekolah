@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Client_SystemSekolahNew
+build_property.RootNamespace = Client_SystemSekolahNew
+build_property.ProjectDir = D:\MCC71\Project Akhir\Sistem Administrasi dan Akademik Sekolah\New folder\Client_SystemSekolah\Client_SystemSekolahNew\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\MCC71\Project Akhir\Sistem Administrasi dan Akademik Sekolah\New folder\Client_SystemSekolah\Client_SystemSekolahNew
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Guru/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VydVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Guru/ProfileGuru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VydVxQcm9maWxlR3VydS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Guru/UpdateNilai.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR3VydVxVcGRhdGVOaWxhaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Shared/_AdminLayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dEFkbWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Shared/_LayoutGuru.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRHdXJ1LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Shared/_LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Shared/_LayoutSiswa.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRTaXN3YS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Siswa/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lzd2FcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/MCC71/Project Akhir/Sistem Administrasi dan Akademik Sekolah/New folder/Client_SystemSekolah/Client_SystemSekolahNew/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5pmbhystmv
